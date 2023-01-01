@@ -19,7 +19,7 @@
 }
 
 .card .card_content {
-  padding: 2rem;
+  padding: 1rem;
 }
 
 .card .card_title {
@@ -43,7 +43,7 @@
 body {
   font-family: "Poppins", Helvertica, sans-serif;
   background-color: #ab99ca;
-  padding: 2rem;
+  padding: 1rem;
   min-height: 100vh;
   display: -webkit-box;
   display: -ms-flexbox;
